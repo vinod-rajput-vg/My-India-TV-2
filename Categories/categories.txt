@@ -1,0 +1,39 @@
+Entertainment
+https://raw.githubusercontent.com/vinod-rajput-vg/My-India-TV/main/Category%20Icons/entertainment.png
+https://raw.githubusercontent.com/vinod-rajput-vg/IPTV-Automation/refs/heads/main/Output/entertainment.txt
+
+Infotainment
+https://raw.githubusercontent.com/vinod-rajput-vg/My-India-TV/main/Category%20Icons/infotainment.png
+https://raw.githubusercontent.com/vinod-rajput-vg/IPTV-Automation/refs/heads/main/Output/infotainment.txt
+
+News
+https://raw.githubusercontent.com/vinod-rajput-vg/My-India-TV/main/Category%20Icons/news.png
+https://raw.githubusercontent.com/vinod-rajput-vg/My-India-TV/main/Category%20Channels/news.txt
+
+Rambo
+https://raw.githubusercontent.com/vinod-rajput-vg/My-India-TV/main/Category%20Icons/rambo.png
+https://raw.githubusercontent.com/vinod-rajput-vg/My-India-TV/main/Category%20Channels/rambo.txt
+
+Jurassic Park
+https://raw.githubusercontent.com/vinod-rajput-vg/My-India-TV/main/Category%20Icons/jurassic_park.png
+https://raw.githubusercontent.com/vinod-rajput-vg/My-India-TV/main/Category%20Channels/jurassic_park.txt
+
+King Kong
+https://raw.githubusercontent.com/vinod-rajput-vg/My-India-TV/main/Category%20Icons/king_kong.png
+https://raw.githubusercontent.com/vinod-rajput-vg/My-India-TV/main/Category%20Channels/king_kong.txt
+
+Stuart Little
+https://raw.githubusercontent.com/vinod-rajput-vg/My-India-TV/main/Category%20Icons/stuart_little.png
+https://raw.githubusercontent.com/vinod-rajput-vg/My-India-TV/main/Category%20Channels/stuart_little.txt
+
+Jaws
+https://raw.githubusercontent.com/vinod-rajput-vg/My-India-TV/main/Category%20Icons/jaws.png
+https://raw.githubusercontent.com/vinod-rajput-vg/My-India-TV/main/Category%20Channels/jaws.txt
+
+Deep Blue Sea
+https://raw.githubusercontent.com/vinod-rajput-vg/My-India-TV/main/Category%20Icons/deep_blue_sea.png
+https://raw.githubusercontent.com/vinod-rajput-vg/My-India-TV/main/Category%20Channels/deep_blue_sea.txt
+
+Titanic
+https://raw.githubusercontent.com/vinod-rajput-vg/My-India-TV/main/Category%20Icons/titanic.png
+https://raw.githubusercontent.com/vinod-rajput-vg/My-India-TV/main/Category%20Channels/titanic.txt

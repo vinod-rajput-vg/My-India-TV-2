@@ -1,0 +1,35 @@
+plugins {
+    id("com.android.application")
+}
+
+android {
+    namespace = "com.myindiatv"
+    compileSdk = 36
+
+    defaultConfig {
+        applicationId = "com.myindiatv"
+        minSdk = 24
+        targetSdk = 36
+        versionCode = 1
+        versionName = "1.0.0"
+    }
+
+    buildTypes {
+        debug {
+            isMinifyEnabled = false
+        }
+        release {
+            isMinifyEnabled = true
+            isShrinkResources = true
+            proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"))
+            optimization {
+                enable = true
+            }
+        }
+    }
+}
+
+kotlin {
+    jvmToolchain(17)
+}
+
